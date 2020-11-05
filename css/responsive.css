@@ -1,0 +1,1440 @@
+﻿/*asutosh*/
+
+
+@media only screen 
+    and (min-device-width: 100px)
+    and (max-device-width: 400px) 
+    and (orientation : portrait)
+{
+    
+/*------------------smartinarch---------------*/
+ 
+#circle {
+    margin-left: -10%;
+    margin-bottom: 25%;
+    margin-top: -10%;
+}
+
+#para{
+    font-size: 10px;
+}
+#points h3{
+    font-size: 75%;
+}
+#points p{
+    font-size: 61% !important;
+}
+#points #subpoints {
+    
+    font-size: 10px;
+}
+
+#subheader h1 {
+    
+    font-size: 141%;
+}
+#note{
+        font-size: 11px;
+}
+#points b{
+    font-size: 7px;
+}
+
+
+    
+.banner {
+    font-family: "Xperia";
+    letter-spacing: 0px;
+    font-size: 47%;
+    padding-left: 10%;
+    text-align: center;
+    }
+#banner1{
+    font-family: "Xperia";
+    letter-spacing: 0px;
+    font-size: 47%;
+    padding-left: 15%;
+    text-align: center;
+    } 
+    .sfb a{
+            margin-left: 115px;
+/*            margin-right:410%;*/
+            text-align: center;
+    }
+   #footer img {
+   width: 113% !important;
+
+    height: 70% !important;
+
+    margin-top: 24px !important;
+
+    margin-left: -20px !important;
+
+    margin-right: -20px !important;
+}
+    footer h3 {
+    font-size: 8px !important;
+}
+    #contact {
+
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    font-size: 55% !important;
+    padding-left: 0px !important;
+    margin-top: -10% !important;
+    margin-bottom: -24px !important;
+
+}
+.fa {
+    display: inline-block !important;
+    font-family: FontAwesome !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    line-height: 1 !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-right: 4px !important;
+    margin-left: 4px !important;
+}
+#left {
+    padding-left: 0px ;
+    padding-right: 0px;
+    padding-top: 0px ;
+    margin-top: -18px;
+}
+    #contact2 {
+    margin-top: 13% !important;
+
+    font-size: 50% !important;
+
+    margin-bottom: -50px !important;
+
+    margin-left: 4px !important;
+
+    margin-right: 5px !important;
+}
+    #copyright {
+    font-size: 42% !important;
+    margin-top: 2% !important;
+    margin-left: -21px !important;
+    padding-right: 0% !important;
+    margin-right: 20px !important;
+}
+
+.de_testi blockquote, .de_testi blockquote p {
+    font-size: 12px;
+    line-height: 1.6em;
+    font-weight: 500;
+    text-align: left;
+    padding-top: 0%;
+}
+#content2 {
+    margin-top: 35px;
+}
+
+#section-testimonial {
+    padding-top: 12%;
+}
+
+.social-icons {
+
+    display: inline-block;
+    margin-left: -19px !important;
+    margin-right: -18px !important;
+    padding-left: 7%;
+    padding-right: 6%;
+    margin-bottom: -15px;
+
+}
+    #social {
+        
+    display: inline-block;
+    margin-left: -79px !important;
+    margin-right: 56px !important;
+    padding-left: 7%;
+    padding-right: 6%;
+    margin-bottom: -15px;
+
+    }
+
+.subfooter {
+
+    background: #1D1D1B;
+    padding: 18px 0 0 0;
+
+}
+    
+.spacer-single {
+    width: 0%;
+    height: 0;
+    display: none;
+    clear: none;
+}
+/*---------------CONTACT US---------------------- */
+    
+    #subheader h1 {
+    font-size: 141% ;
+    margin-left: 19% ;
+    margin-right: 12% ;
+}
+    footer h3 {
+    font-size: 11px !important;
+}
+
+    footer .widget {
+    border: none !important;
+    margin-bottom: -65px;
+}
+
+#contact_form textarea {
+    height: 85px;
+}
+    .footer1{
+        margin-top: -119px;
+    }
+    
+.spacer-single {
+    width: 0%;
+    height: 0;
+    display: none;
+    clear: none;
+}
+.no-top1 {
+    padding-top: 0 !important;
+    margin-bottom: -92px;
+}
+    #section-testimonial1{
+        padding-top: 32px;
+        margin-top: -93px;
+    }
+    
+#footer2 {
+    padding-top: 0px;
+}
+    
+/*----------------------about us-------------------------*/
+
+.subheader1 h1 {
+    font-size: 141%;
+    margin-left: 26% !important;
+    margin-right: 9% !important;
+}
+}
+
+/*----------------------(landscape) ----------- */
+@media only screen
+and (min-device-width : 500px)
+and (max-device-width : 700px)
+and (orientation : landscape) {
+    #content2 h1 {
+    font-family: "Poppins";
+    margin-top: -50px;
+}
+    
+/*------------------smartinarch---------------*/
+    
+    
+#circle {
+    margin-left: 18%;
+    margin-bottom: 25%;
+    padding-right: 20%;
+    margin-top: -10;
+}
+/*
+.cir1{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    padding-top: 1%;
+    margin-top: -13% !important;
+        }
+.cir2{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    padding-top: 1%;
+    margin-top: -13% !important;
+}
+.cir3{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    padding-top: 1%;
+    margin-top: -13% !important;
+}
+*/
+#section-testimonial h1 {
+    font-family: "Poppins";
+    margin-top: -53px;
+}
+
+#testimonial p {
+    font-family: "Montserrat";
+    font-size: 100%;
+    text-align: justify;
+}
+#footer img {
+    width: 87%;
+    height: 70%;
+    margin-top: 64px;
+    margin-left: 12px;
+}
+#contact2 {
+    margin-top: 40px;
+}
+.social-icons {
+    display: inline-block;
+    margin-left: 80px;
+}
+
+.sfb a{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center; 
+    }
+    
+#subheader h1 {
+    font-family: "Poppins";
+    font-size: 200%;
+    margin-left: 26% ;
+    margin-right: 17% ;
+    text-align: center;
+}
+address {
+    margin: 0;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    margin-top: 20px;
+    margin-bottom: -95px;
+}
+    
+.subheader1 h1 {
+    font-size: 141%;
+    margin-left: 35% !important;
+    margin-right: 30% !important;
+}
+    
+/*contactus*/
+    
+    .spacer-single {
+    width: 0%;
+    height: 0;
+    display: none;
+    clear: none;
+}
+.no-top1 {
+    padding-top: 0 !important;
+    margin-bottom: -92px;
+}
+    #section-testimonial1{
+        padding-top: 32px;
+        margin-top: -93px;
+    }
+    
+#footer2 {
+    padding-top: 0px;
+}
+    #copyright1 {
+    padding-bottom: 0;
+    margin-bottom: -17px;
+}
+ #social {
+        
+    display: inline-block;
+    margin-left: -79px !important;
+    margin-right: 56px !important;
+    padding-left: 7%;
+    padding-right: 6%;
+    margin-bottom: -15px;
+
+    }
+    
+/*-----------------------------------------------*/
+    
+    
+}
+
+
+@media only screen 
+    and (max-device-width: 320px)
+    and (orientation : portrait)
+{
+    #circle {
+    margin-left: -20% !important;
+    margin-bottom: 25%;
+    margin-top: -10%;
+}
+    .social-icons {
+    display: inline-block;
+    margin-left: -20px !important;
+    margin-right: -34px !important;
+    padding-left: 0%;
+    padding-right: 0;
+    margin-bottom: -15px;
+}
+#copyright {
+    font-size: 42% !important;
+    margin-top: 2% !important;
+    margin-left: -21px !important;
+    padding-right: 0% !important;
+    margin-right: 20px !important;
+}
+    #banner1{
+    font-family: "Xperia";
+    letter-spacing: 0px;
+    font-size: 47%;
+    padding-left: 55px;
+    text-align: center;
+    } 
+    
+.sfb a{
+        margin-left: 95px !important;
+/*            margin-right:410%;*/
+        text-align: center;
+
+    }
+}
+
+
+/*--------------------iphone-------------------------*/
+
+@media only screen 
+    and (min-device-width: 405px)
+    and (max-device-width: 550px) 
+    and (orientation : portrait)
+{
+    
+    
+/*------------------smartinarch---------------*/
+    
+    
+#circle {
+    margin-left: -1%;
+    margin-bottom: 25%;
+    margin-top: -10%;
+}
+/*
+.cir1{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    padding-top: 1%;
+    margin-top: -13% !important;
+        }
+.cir2{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    padding-top: 1%;
+    margin-top: -13% !important;
+}
+.cir3{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    padding-top: 1%;
+    margin-top: -13% !important;
+}
+*/
+#para{
+    font-size: 10px;
+}
+#points h3{
+    font-size: 75%;
+}
+#points p{
+    font-size: 61% !important;
+}
+#points #subpoints {
+    
+    font-size: 10px;
+}
+
+#subheader h1 {
+    
+    font-size: 141%;
+}
+#note{
+        font-size: 11px;
+}
+#points b{
+    font-size: 7px;
+}
+    
+    
+.banner {
+    font-family: "Xperia";
+    letter-spacing: 0px;
+    font-size: 47%;
+    padding-left: 10%;
+    text-align: center;
+    }
+#banner1{
+    font-family: "Xperia";
+    letter-spacing: 0px;
+    font-size: 47%;
+    padding-left: 70px;
+    text-align: center;
+    } 
+    .sfb a{
+            margin-left: 135px;
+/*            margin-right:410%;*/
+            text-align: center;
+    }
+   #footer img {
+   width: 113% !important;
+
+    height: 70% !important;
+
+    margin-top: 24px !important;
+
+    margin-left: -20px !important;
+
+    margin-right: -20px !important;
+}
+    footer h3 {
+    font-size: 8px !important;
+}
+    #contact {
+
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+    font-size: 55% !important;
+    padding-left: 0px !important;
+    margin-top: -10% !important;
+    margin-bottom: -24px !important;
+
+}
+.fa {
+    display: inline-block !important;
+    font-family: FontAwesome !important;
+    font-style: normal !important;
+    font-weight: normal !important;
+    line-height: 1 !important;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-right: 4px !important;
+    margin-left: 4px !important;
+}
+    #left {
+    padding-left: 0px ;
+    padding-right: 0px;
+    padding-top: 0px;
+    margin-top: -18px;
+}
+    #contact2 {
+    margin-top: -4% !important;
+
+    font-size: 50% !important;
+
+    margin-bottom: -50px !important;
+
+    margin-left: 4px !important;
+
+    margin-right: 5px !important;
+}
+    #copyright {
+    font-size: 49% !important;
+
+    margin-top: 0% !important;
+
+    margin-left: -12px !important;
+
+    padding-right: 0% !important;
+
+    margin-right: -12px !important;
+}
+
+.de_testi blockquote, .de_testi blockquote p {
+    font-size: 12px;
+    line-height: 1.6em;
+    font-weight: 500;
+    text-align: left;
+    padding-top: 0%;
+}
+#content2 {
+    margin-top: 35px;
+}
+
+#section-testimonial {
+    padding-top: 12%;
+}
+
+.social-icons {
+
+    display: inline-block;
+    margin-left: -18px !important;
+    margin-right: -18px !important;
+    padding-left: 7%;
+    padding-right: 6%;
+    margin-bottom: -15px;
+
+}
+
+.subfooter {
+
+    background: #1D1D1B;
+    padding: 18px 0 0 0;
+
+}
+    
+.spacer-single {
+    width: 0%;
+    height: 0;
+    display: none;
+    clear: none;
+}
+/*---------------CONTACT US---------------------- */
+    
+    #subheader h1 {
+    font-size: 141% ;
+    margin-left: 25% ;
+    margin-right: 17% ;
+}
+    footer h3 {
+    font-size: 11px !important;
+}
+
+    footer .widget {
+    border: none !important;
+    margin-bottom: -65px;
+}
+
+#contact_form textarea {
+    height: 85px;
+}
+.footer1{
+        margin-top: -119px;
+    }
+    
+.no-top1 {
+    padding-top: 0 !important;
+    margin-bottom: -92px;
+}
+    #copyright1{
+        font-size: 60% !important;
+        margin-top: 0% !important;
+        margin-left: -12px !important;
+        padding-right: 0% !important;
+        margin-right: -12px !important;
+        padding-bottom: 0px !important;
+        margin-bottom: -24px !important;
+    }
+    #section-testimonial1{
+        padding-top: 32px;
+        margin-top: -93px;
+        padding-bottom: 0px;
+    }
+#footer2 {
+    padding-top: 0px;
+}
+    
+/*----------------------about us-------------------------*/
+
+.subheader1 h1 {
+    font-size: 141%;
+    margin-left: 26% !important;
+    margin-right: 9% !important;
+}
+    
+}
+
+/*---------------------iphone land scape--------------*/
+
+@media only screen
+and (min-device-width : 705px)
+and (max-device-width : 850px)
+and (orientation : landscape) 
+{
+#circle {
+    margin-left: 23%;
+    padding-right: 50%;
+    margin-bottom: 10%;
+    margin-top: -2%;
+}
+/*
+.cir1{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    padding-top: 1%;
+    margin-top: -13% !important;
+        }
+.cir2{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    padding-top: 1%;
+    margin-top: -13% !important;
+}
+.cir3{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    padding-top: 1%;
+    margin-top: -13% !important;
+}
+*/
+#section-testimonial h1 {
+    font-family: "Poppins";
+    margin-top: -53px;
+}
+
+#testimonial p {
+    font-family: "Montserrat";
+    font-size: 100%;
+    text-align: justify;
+}
+#footer img {
+    width: 87%;
+    height: 70%;
+    margin-top: 64px;
+    margin-left: 12px;
+}
+#contact2 {
+    margin-top: 40px;
+}
+.social-icons {
+    display: inline-block;
+    margin-left: 80px;
+}
+
+.sfb a{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center; 
+    }
+    
+#subheader h1 {
+    font-family: "Poppins";
+    font-size: 200%;
+    margin-left: 26% ;
+    margin-right: 17% ;
+    text-align: center;
+}
+address {
+    margin: 0;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    margin-top: 20px;
+    margin-bottom: -95px;
+}
+    
+.subheader1 h1 {
+    font-size: 141%;
+    margin-left: 35% !important;
+    margin-right: 30% !important;
+}
+    
+/*contactus*/
+    
+    .spacer-single {
+    width: 0%;
+    height: 0;
+    display: none;
+    clear: none;
+}
+.no-top1 {
+    padding-top: 0 !important;
+    margin-bottom: -92px;
+}
+    #section-testimonial1{
+        padding-top: 32px;
+        margin-top: -93px;
+    }
+    
+#footer2 {
+    padding-top: 0px;
+}
+
+#copyright1 {
+    padding-bottom: 0;
+    margin-bottom: -17px;
+}
+ #social {
+        
+    display: inline-block;
+    margin-left: -79px !important;
+    margin-right: 56px !important;
+    padding-left: 7%;
+    padding-right: 6%;
+    margin-bottom: -15px;
+
+    }
+    #left {
+    padding-bottom: 51px;
+}
+    
+}
+
+/*------------ipad-------------*/
+
+@media only screen
+and (min-device-width : 768px)
+and (orientation : portrait)
+{
+ #circle {
+    margin-left: 25%;
+    padding-right: 50%;
+    margin-bottom: 10%;
+    margin-top: -2%;
+}
+    .social-icons {
+    display: inline-block;
+    padding-left: 43%;
+    }
+    
+/*    contact us*/
+
+ div#copyright1 {
+    padding-bottom: 0px;
+    margin-bottom: -30px;
+}
+div#social {
+    margin-right: 79px;
+}
+    
+}
+/*------------nexus 7-------------------*/
+
+@media only screen
+and (min-device-width : 900px)
+and (max-device-width : 1000px)
+and (orientation : landscape)
+{
+#circle {
+    margin-left: 25%;
+    padding-right: 50%;
+    margin-bottom: 10%;
+    margin-top: -2%;
+}
+/*
+.cir1{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    padding-top: 1%;
+    margin-top: -13% !important;
+        }
+.cir2{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    padding-top: 1%;
+    margin-top: -13% !important;
+}
+.cir3{
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+    padding-top: 1%;
+    margin-top: -13% !important;
+}
+*/
+#section-testimonial h1 {
+    font-family: "Poppins";
+    margin-top: -53px;
+}
+
+#testimonial p {
+    font-family: "Montserrat";
+    font-size: 100%;
+    text-align: justify;
+}
+#footer img {
+    width: 87%;
+    height: 70%;
+    margin-top: 64px;
+    margin-left: 12px;
+}
+#contact2 {
+    margin-top: 40px;
+}
+.social-icons {
+    display: inline-block;
+    margin-left: 80px;
+}
+
+.sfb a{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center; 
+    }
+    
+#subheader h1 {
+    font-family: "Poppins";
+    font-size: 200%;
+    margin-left: 26% ;
+    margin-right: 17% ;
+    text-align: center;
+}
+address {
+    margin: 0;
+        margin-top: 0px;
+        margin-bottom: 0px;
+    margin-top: 20px;
+    margin-bottom: -95px;
+}
+    
+.subheader1 h1 {
+    font-size: 141%;
+    margin-left: 35% !important;
+    margin-right: 30% !important;
+}
+    
+/*contactus*/
+    
+    .spacer-single {
+    width: 0%;
+    height: 0;
+    display: none;
+    clear: none;
+}
+.no-top1 {
+    padding-top: 0 !important;
+    margin-bottom: -92px;
+}
+    #section-testimonial1{
+        padding-top: 32px;
+        margin-top: -93px;
+    }
+    
+#footer2 {
+    padding-top: 0px;
+}
+
+#copyright1 {
+    padding-bottom: 0;
+    margin-bottom: -17px;
+}
+ #social {
+        
+    display: inline-block;
+    margin-left: -79px !important;
+    margin-right: 56px !important;
+    padding-left: 7%;
+    padding-right: 6%;
+    margin-bottom: -15px;
+
+    }  
+    #left {
+    padding-bottom: 51px;
+}
+    
+}
+@media only screen
+and (min-device-width : 560px)
+and (max-device-width : 650px)
+    and (orientation : portrait){
+    #circle {
+    margin-left: 17%;
+    margin-bottom: 8%;
+    margin-top: -8%;
+}
+.social-icons {
+    display: inline-block;
+    padding-left: 35%;
+}
+.sfb a{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center; 
+    }
+/*contact*/
+        
+.spacer-single {
+    width: 0%;
+    height: 0;
+    display: none;
+    clear: none;
+}
+.no-top1 {
+    padding-top: 0 !important;
+    margin-bottom: -92px;
+}
+    #section-testimonial1{
+        padding-top: 32px;
+        margin-top: -93px;
+    }
+    
+#footer2 {
+    padding-top: 0px;
+}
+    #copyright1 {
+    padding-bottom: 0;
+    margin-bottom: -24px;
+}
+ #social {
+        
+    display: inline-block;
+    margin-left: -79px !important;
+    margin-right: 0px !important;
+    padding-left: 7%;
+    padding-right: 6%;
+    margin-bottom: -15px;
+
+    }
+    #contact2 {
+    margin-top: -17%;
+    margin-bottom: -7%;
+}
+        
+}
+
+/*---------------------------------*/
+/*ipad land scape*/
+@media only screen
+and (min-device-width : 1000px)
+and (max-device-width : 1100px)
+and (orientation : landscape)
+{
+    #circle {
+    margin-left: 7%;
+    margin-bottom: 8%;
+}
+    .social-icons {
+    display: inline-block;
+    margin-left: 60%;
+}
+    .sfb a{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center; 
+    }
+    
+/*    contact us*/
+    
+    .spacer-single {
+    width: 0%;
+    height: 0;
+    display: none;
+    clear: none;
+}
+.no-top1 {
+    padding-top: 0 !important;
+    margin-bottom: -92px;
+}
+    #section-testimonial1{
+        padding-top: 32px;
+        margin-top: -93px;
+    }
+    
+#footer2 {
+    padding-top: 0px;
+}
+
+#copyright1 {
+    padding-bottom: 0;
+    margin-bottom: -17px;
+}
+ #social {
+        
+    display: inline-block;
+    margin-left: -79px !important;
+    margin-right: 56px !important;
+    padding-left: 7%;
+    padding-right: 6%;
+    margin-bottom: -15px;
+
+    }  
+    #left {
+    padding-bottom: 51px;
+}
+#contact_form textarea {
+    height: 300px;
+    width: 170%;
+}
+    
+}
+
+
+
+
+
+
+@media only screen
+and (min-device-width : 1010px)
+and (max-device-width : 1100px)
+and (orientation : portrait)
+{
+    
+#circle {
+    margin-left: 6%;
+    padding-right: 0%;
+}
+
+.social-icons {
+    display: inline-block;
+    padding-right: 0;
+    padding-left: 240px;
+}
+.sfb a{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: center; 
+    }
+    
+/*--------------------contact us-------------------*/
+    .spacer-single {
+    width: 0%;
+    height: 0;
+    display: none;
+    clear: none;
+}
+.no-top1 {
+    padding-top: 0 !important;
+    margin-bottom: -92px;
+}
+    #section-testimonial1{
+        padding-top: 32px;
+        margin-top: -93px;
+    }
+    
+#footer2 {
+    padding-top: 0px;
+}
+
+#copyright1 {
+    padding-bottom: 0;
+    margin-bottom: -17px;
+}
+ #social {
+        
+    display: inline-block;
+    margin-left: -79px !important;
+    margin-right: 56px !important;
+    padding-left: 7%;
+    padding-right: 6%;
+    margin-bottom: -15px;
+
+    }  
+    #left {
+    padding-bottom: 51px;
+}
+#contact_form textarea {
+    height: 300px;
+    width: 170%;
+}
+}
+
+@media only screen
+and (min-device-width : 1110px)
+{
+   .social-icons {
+    display: inline-block;
+    padding-right: 0;
+    padding-left: 270px;
+}
+    
+.spacer-single {
+    width: 0%;
+    height: 0;
+    display: none;
+    clear: none;
+}
+.no-top1 {
+    padding-top: 0 !important;
+    margin-bottom: -92px;
+}
+    #section-testimonial1{
+        padding-top: 32px;
+        margin-top: -93px;
+    }
+    
+#footer2 {
+    padding-top: 0px;
+}
+
+#copyright1 {
+    padding-bottom: 0;
+    margin-bottom: -17px;
+}
+ #social {
+        
+    display: inline-block;
+    margin-left: -79px !important;
+    margin-right: 56px !important;
+    padding-left: 7%;
+    padding-right: 6%;
+    margin-bottom: -15px;
+
+    }  
+    #left {
+    padding-bottom: 51px;
+}
+#contact_form textarea {
+    height: 300px;
+    width: 170%;
+}
+.sfb a{
+    margin-left: 10% !important;
+    margin-right:0;
+    text-align: center; 
+    }
+}
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+@media only screen and (max-device-width: 411px){
+        .cir1{
+           margin-left: 16px !important;
+            padding-top: 1%;
+            margin-top: -13% !important;
+        }
+.cir2{
+        margin-left: 16px !important;
+        padding-top: 1%;
+        margin-top: -13% !important;
+}
+.cir3{
+       margin-left: 16px !important;
+        padding-top: 1%;
+        margin-top: -13% !important;
+}
+#content2 h1 {
+    font-family: "Poppins";
+    font-size: 158%;
+}
+#content2 {
+    margin-top: 26px;
+}
+*/
+/*
+#section-testimonial h1 {
+    font-size: 158%;    
+}
+#section-testimonial {    
+    padding-top: 7%;
+    }
+*/
+
+/*
+    #testimonial p {    
+    font-size: 64%;
+}
+#testimonial-cus {
+        font-size: 9px;
+    margin-top: -20px;
+}
+#testimonial-cus2 {
+        font-size: 9px;
+    margin-top: -20px;
+}
+.container .col-md-6 {
+    margin-bottom: -38px;
+}
+address {
+    margin: 0;
+    margin-top: -3px;
+    font-size: 68%;
+}
+#contact{
+    padding-left: 106px;
+    margin-top: -10%;
+}
+*/
+/*
+footer h3 {    
+    font-size: 16px;
+}
+#footer img {
+    width: 43%;
+    height: 59%;
+    margin-top: -83px;
+    margin-left: 93px;
+    }
+#contact2{
+        margin-left: 25%;
+        margin-bottom: -22%;
+}    
+#copyright{
+        font-size: 56%;
+            margin-top: 1%;
+}
+#icon{
+        margin-bottom: 7px;
+}
+.subfooter {
+    
+    padding: 10px 0 0 0;
+}
+#icon{
+    margin-left: 48%;
+}
+*/
+
+/*
+.banner {
+    font-family: "Xperia";
+    letter-spacing: 0px;
+    font-size: 47%;
+    padding-left: 10%;
+    text-align: center;
+    }
+#banner1{
+    font-family: "Xperia";
+    letter-spacing: 0px;
+    font-size: 47%;
+    padding-left: 20%;
+    text-align: center;
+    } 
+    .sfb a{
+            margin-left: 70%;
+            text-align: center; 
+    }
+   #footer img {
+    width: 137% !important;
+    height: 70% !important;
+    margin-top: 24px !important;
+    margin-left: -1px !important;
+    padding-right: 0px !important;
+    margin-right: 0px;
+}
+    footer h3 {
+    font-size: 8px !important;
+}
+    #contact {
+    margin-left: 6px !important;
+        font-size: 70% !important;
+        padding-left: 0px !important;
+        margin-top: -10% !important;
+        margin-bottom: -24px !important;
+}
+*/
+/*
+.fa {
+    display: inline-block !important;
+    font-family: FontAwesome !important;
+    font-style: normal !important;
+    font-weight: normal ;!important
+    line-height: 1 !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-right: 4px !important;
+}
+    #left {
+    padding-left: ;
+    padding-right: 0px;
+    padding-top: 0px;
+    margin-top: -18px;
+}
+    #contact2 {
+    margin-top: 5% !important;
+    font-size: 70% !important;
+    margin-bottom: -50px !important;
+    margin-left: 20px !important;
+    margin-right: -5PX !important;
+}
+#copyright {
+
+    font-size: 41% !important;
+    margin-top: -2% !important;
+    margin-left: -12px !important;
+    padding-right: 0 !important;
+
+}
+.social-icons {
+    display: inline-block;
+    margin-left: -7px !important;
+    padding-left: 0px !important;
+    margin-right: -20px !important;
+    margin-top: 7px !important;
+}
+    
+
+}
+*/
+
+/*
+@media only screen
+    and (min-device-width : 360px){
+           asutosh
+.banner {
+    font-family: "Xperia";
+    letter-spacing: 0px;
+    font-size: 47%;
+    padding-left: 10%;
+    text-align: center;
+    }
+#banner1{
+    font-family: "Xperia";
+    letter-spacing: 0px;
+    font-size: 47%;
+    padding-left: 20%;
+    text-align: center;
+    } 
+    .sfb a{
+            margin-left: 70%;
+            text-align: center; 
+    }
+   #footer img {
+    width: 137% !important;
+    height: 70% !important;
+    margin-top: 24px !important;
+    margin-left: -1px !important;
+    padding-right: 0px !important;
+    margin-right: 0px;
+}
+    footer h3 {
+    font-size: 8px !important;
+*/
+/*
+}
+    #contact {
+    margin-left: 6px !important;
+        font-size: 70% !important;
+        padding-left: 0px !important;
+        margin-top: -10% !important;
+        margin-bottom: -24px !important;
+}
+.fa {
+    display: inline-block !important;
+    font-family: FontAwesome !important;
+    font-style: normal !important;
+    font-weight: normal ;!important
+    line-height: 1 !important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+    margin-right: 4px !important;
+}
+    #left {
+    padding-left: ;
+    padding-right: 0px;
+    padding-top: 0px;
+    margin-top: -18px;
+}
+    #contact2 {
+    margin-top: 5% !important;
+    font-size: 70% !important;
+    margin-bottom: -50px !important;
+    margin-left: 20px !important;
+    margin-right: -5PX !important;
+}
+#copyright {
+
+    font-size: 41% !important;
+    margin-top: -2% !important;
+    margin-left: -12px !important;
+    padding-right: 0 !important;
+
+}
+.social-icons {
+    display: inline-block;
+    margin-left: -13px !important;
+    padding-left: 0px !important;
+    margin-right: -20px !important;
+    margin-top: 7px !important;
+} 
+        #banner2 {
+            margin-left: 25px !important;
+        }
+}
+
+*/
+
+
